@@ -32,7 +32,8 @@ nav{
 display: grid;
 background-color: #4D4D4D;
 grid-template-columns: 1fr 1fr 1fr;
-margin-bottom: 1em
+margin-bottom: 1em;
+ border: 2px solid white
 }
 
 p{
