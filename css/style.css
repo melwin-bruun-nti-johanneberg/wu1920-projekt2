@@ -1,20 +1,22 @@
 .hovoudbar {
  display: grid ; 
- background-color: blue;
+ background-color: black;
 
 }
 
 .länkar{
 color: white;
 margin: 7px;
+font-size: 24px
 }
 
 #uggla{
-    height:100px ;
-    width:125px ;
+    height:200px ;
+    width:225px ;
 }
 
 .name{
     color: white;
+    text-align: center;
 
 }
