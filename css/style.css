@@ -1,0 +1,20 @@
+.hovoudbar {
+ display: grid ; 
+ background-color: blue;
+
+}
+
+.länkar{
+color: white;
+margin: 7px;
+}
+
+#uggla{
+    height:100px ;
+    width:125px ;
+}
+
+.name{
+    color: white;
+
+}
