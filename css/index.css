@@ -1,0 +1,22 @@
+#omg{
+    text-align: right
+}
+#omg2{
+    text-align: center
+}
+
+.info{
+background-color: white;
+display: grid;
+grid-template-columns: 1fr 2fr 1fr 
+
+}
+
+aside{
+    background-color: #4D4D4D;
+    color: #D9D9D9
+}
+
+main{
+    text-align: center
+}
