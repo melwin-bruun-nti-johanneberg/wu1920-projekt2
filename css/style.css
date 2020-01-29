@@ -1,7 +1,11 @@
 .hovoudbar {
  display: grid ; 
  background-color: black;
+}
 
+.header{
+    display: grid;
+ grid-template-columns: 1fr 1fr 1fr 1fr 1fr 3fr 
 }
 
 .länkar{
@@ -11,12 +15,16 @@ font-size: 24px
 }
 
 #uggla{
-    height:200px ;
-    width:225px ;
+    height:150px ;
+    width:175px ;
+}
+
+.loga{ 
+    text-align: center;
+    background-color: black
 }
 
 .name{
     color: white;
-    text-align: center;
-
+    font-size: 24px
 }
