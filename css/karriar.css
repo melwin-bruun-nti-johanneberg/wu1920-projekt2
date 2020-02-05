@@ -1,0 +1,27 @@
+h2{
+    text-align: center;
+    font-size: 48px
+
+}
+
+main{
+    display:grid;
+   
+}
+img{
+ width: 400px; 
+ height: 300px;
+text-align: center
+}
+
+
+.back_bild{
+    background-image: url("img_solnedgång-unplash.jpg")
+
+}
+
+.kak{
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    text-align: center
+}
