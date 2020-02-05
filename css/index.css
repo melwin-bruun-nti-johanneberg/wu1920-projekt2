@@ -1,8 +1,13 @@
 #omg{
-    text-align: right
+    text-align: right;
+    color: white
 }
 #omg2{
-    text-align: center
+    text-align: center;
+    color: white
+}
+#omg3{
+    color: white
 }
 
 .info{
