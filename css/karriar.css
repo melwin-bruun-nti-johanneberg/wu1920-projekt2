@@ -16,12 +16,22 @@ text-align: center
 
 
 .back_bild{
-    background-image: url("img_solnedgång-unplash.jpg")
-
+    background-image:url("../img/solnedgang_unsplash.jpg");
+    background-color: #cccccc;
+ height: 100px;
+ margin-bottom: 7px
 }
 
 .kak{
     display: grid;
     grid-template-columns: 1fr 1fr; 
+    text-align: center
+}
+
+
+#hej{
+text-align: left
+}
+#hej2{
     text-align: center
 }
