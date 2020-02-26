@@ -1,6 +1,7 @@
 
 h2 {
-    font-size: 30px
+    font-size: 30px;
+    text-align: center
 }
 
 img { 
@@ -15,3 +16,11 @@ img {
     text-align: center
 }
 
+
+article{
+    margin-top:7em
+}
+
+main{
+    margin-bottom: 2em
+}
