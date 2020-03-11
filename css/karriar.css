@@ -76,10 +76,38 @@ nav{
     
     }
      
-    .info{ 
-        grid-template-rows: 1fr 1fr 1fr;
-        grid-template-columns: 1fr
+    .kak{
+     display: flex;
+     flex-direction: column;
+
+     grid-template-columns: none
     }
-    
-    
+
+    img{
+        width: 350px; 
+        height: 250px;
+       text-align: center
+       }
+    #hej0 {
+        order: 1
+    }
+       #hej{
+           text-align: center;
+           order: 2
+       }
+       #hej2{
+        text-align: center;
+        order: 4
+       
+    }
+    #hej3{
+        order: 3
+    }
+       .back_bild{
+        background-color: white;
+        background-image: none;
+        
+       }
+
+      
     }
