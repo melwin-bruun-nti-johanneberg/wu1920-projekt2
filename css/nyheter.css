@@ -66,10 +66,38 @@ img{
     
     }
      
-    .info{ 
-        grid-template-rows: 1fr 1fr 1fr;
-        grid-template-columns: 1fr
-    }
+    img{
+        width: 365px; 
+        height: 260px;
+       text-align: center
     
-    
     }
+
+    .nyheter{
+        display: flex;
+        grid-template-columns: none;
+        text-align: center;
+        flex-direction: column;
+    }
+
+    #ny1{
+        order: 1
+    }
+    #ny2{
+        order: 3
+    }
+    #ny3{
+        order: 5
+    }
+
+    #ny4{
+        order: 2
+    }
+    #ny5{
+        order: 4
+    }
+
+    #ny6{
+        order: 6
+    }
+}
