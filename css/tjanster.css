@@ -53,10 +53,15 @@ main{
     
     }
      
-    .info{ 
-        grid-template-rows: 1fr 1fr 1fr;
-        grid-template-columns: 1fr
+    #tjanster{
+        display: flex;
+        grid-template-columns: none ;
+        text-align: center;
+        flex-direction: column
     }
-    
+
+    article{
+        margin-top: 0em
+    }
     
     }
