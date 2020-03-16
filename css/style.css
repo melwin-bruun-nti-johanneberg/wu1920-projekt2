@@ -81,6 +81,20 @@ h1{
 
 }
 
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 15px
+}
+
+
+
+
+
+
+
+
+
 
 .name{
     text-align: center;
