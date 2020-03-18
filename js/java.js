@@ -14,7 +14,7 @@ togglenavstatus = true ;
 
 
 else if  (togglenavstatus === true){
-    getToggleul.style.visibility = "visible"
+    getToggleul.style.visibility = "hidden"
     
     
     togglenavstatus = false;
