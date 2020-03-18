@@ -16,8 +16,14 @@ main{
     font-size: 25px
 }
 
+li{
+    font-size: 24px
+}
 
-
+.toggle-a{
+    font-size: 24px;
+    margin-left: 19.5em 
+}
 
 
 @media screen and (max-width: 700px) and (min-width:1px) {
@@ -58,5 +64,10 @@ aside{
 main{
     text-align: center;
     font-size: 18px
+}
+
+.toggle-a{
+    font-size: 18px;
+    margin-left: 2em 
 }
 }
