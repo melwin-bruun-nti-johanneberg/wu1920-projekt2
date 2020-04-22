@@ -54,11 +54,13 @@ h1{
  
 .info{ 
     grid-template-rows: 1fr 1fr 1fr;
-    grid-template-columns: 1fr
+    grid-template-columns: 1fr;
+    margin-bottom: 2em 
 }
 aside{
   
-    font-size: 18px
+    font-size: 18px; 
+    
 }
 
 main{
