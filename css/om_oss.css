@@ -9,7 +9,8 @@ main{
 
 article{
     font-size: 18px; 
-    
+    margin-left: 250px;
+    margin-right: 250px; 
 }
 
 h2{
@@ -51,5 +52,20 @@ h2{
         grid-template-columns: 1fr
     }
     
+    article{
+     
+        margin-left: 0px;
+        margin-right: 0px; 
+    }
     
+    }
+
+
+    @media screen and (max-width: 1200px) and (min-width:700px) {
+
+        article{
+     
+            margin-left: 100px;
+            margin-right: 100px; 
+        }
     }
